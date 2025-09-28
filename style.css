@@ -692,21 +692,21 @@ body.dark-mode .skills-container h2 {
         font-size: 3rem;  
     }
     .home-content h1{
-        font-size: 2.5rem; 
+        font-size: 2.3rem; 
     }
     .home-content h2{
         word-break: keep-all;
-        font-size: 2.5rem;  
+        font-size: 2.2rem;  
     }
     .home-content h3{
         font-size: 1.2rem;
     }
-    .heading{
-        font-size: 2.5rem; 
-    }
-    
     .home{
         padding: 5rem 10%;  
     }
-
+    .projects-box{
+        grid-template-columns: 1fr; 
+        justify-items: center;       
+        padding: 0 2rem;           
+    }
 }
